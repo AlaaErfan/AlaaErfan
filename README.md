@@ -85,6 +85,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/alaaerfan/)
 - [Credly](https://www.credly.com/users/alaa-erfan/badges)
+- [Kaggle](https://www.kaggle.com/alaaerfan)
 
 ## Get in Touch
 
